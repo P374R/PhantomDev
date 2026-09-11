@@ -9,7 +9,7 @@ PhantomDev bundles an interactive developer interface, local socket inspection, 
 ##  Quick Start
 
 1. Go to the Releases section on the right.
-2. Download **`PhantomDev.exe`** (or `PhantomDev-v1.X.X-Portable.exe`).
+2. Download **`PhantomDev-v1.X.X-Portable.zip`**
 3. Double-click the `.exe` to launch.
 
 > **Note:** The entire AI model and engine are bundled directly inside the binary. Initial startup takes ~5–10 seconds while the application unpacks the local inference environment into memory.
