@@ -1,0 +1,29 @@
+PhantomDev End User License Agreement (EULA)
+
+Copyright (c) 2026 Petar (P374R). All rights reserved.
+
+Permission is hereby granted to any person obtaining a copy of the PhantomDev 
+binary distribution ("Software") to run and use the Software for personal, 
+educational, or commercial purposes, subject to the following conditions:
+
+1. RESTRICTIONS
+   * You may NOT modify, reverse engineer, decompile, disassemble, or derive 
+     source code from the Software binary.
+   * You may NOT sell, rent, lease, or distribute the Software for commercial profit.
+   * You may redistribute unmodified copies of the binary package, provided 
+     that this license document is included with all copies.
+
+2. THIRD-PARTY NOTICES
+   The Software bundles components and weights licensed under open terms:
+   * llama.cpp runtime (MIT License)
+   * Qwen 2.5 Coder Model Weights (Qwen Research / Apache 2.0 Compatible)
+   All bundled third-party rights remain with their respective authors.
+
+3. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL 
+   THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+   DEALINGS IN THE SOFTWARE.
