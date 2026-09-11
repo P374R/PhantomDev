@@ -30,3 +30,9 @@ PhantomDev bundles an interactive developer interface, local socket inspection, 
 * **OS:** Windows 10 / Windows 11 (64-bit)
 * **RAM:** 4 GB minimum (requires ~2 GB free RAM for model execution)
 * **Storage:** ~2 GB free disk space
+
+---
+
+##  License
+
+Distributed under the terms in the [LICENSE](LICENSE) file.
