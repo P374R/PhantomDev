@@ -24,7 +24,7 @@ PhantomDev bundles an interactive developer interface, local socket inspection, 
 * **Zero Dependencies:** No Python, CUDA setups, or system runtimes required on the host machine.
 
 ---
-
+ 
 ##  System Requirements
 
 * **OS:** Windows 10 / Windows 11 (64-bit)
